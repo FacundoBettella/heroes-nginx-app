@@ -1,4 +1,4 @@
-## NGINX study##
+## NGINX study ##
 
 Container assembly:
 `$ docker run --name some-nginx -d -p 8080:80 nginx:1.23.3`
